@@ -2,7 +2,7 @@ name,ring,quadrant,isNew,description
 Python,Adopt,languages-and-frameworks,FALSE,
 FastAPI,Adopt,languages-and-frameworks,FALSE,
 Azure,Adopt,Platforms,FALSE,
-cosmosdb,Hold,FTools,ALSE,
+cosmosdb,Hold,Tools,FALSE,
 postgresql,Trial,Tools,FALSE,
 Kafka,Adopt,Tools,FALSE,
 Kubernetes (AKS),Adopt,Platforms,FALSE,
