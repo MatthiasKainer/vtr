@@ -1,0 +1,11 @@
+name,ring,quadrant,isNew,description
+Python,languages-and-frameworks,Adopt,FALSE,
+FastAPI,languages-and-frameworks,Adopt,FALSE,
+Azure,Platforms,Adopt,FALSE,
+cosmosdb,Tools,Hold,FALSE,
+postgresql,Tools,Trial,FALSE,
+Kafka,Tools,Adopt,FALSE,
+Kubernetes (AKS),Platforms,Adopt,FALSE,
+Confluent Cloud,Platforms,Assess,FALSE,
+"Build Once, Release Many",Techniques,Trial,FALSE,
+Ecosystem of Data Products,Techniques,Assess,FALSE,
