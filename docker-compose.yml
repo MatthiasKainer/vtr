@@ -1,0 +1,8 @@
+version: "3.9" # optional since v1.27.0
+services:
+  radar:
+    image: wwwthoughtworks/build-your-own-radar
+    volumes:
+      - ./vtr.csv:/src/build-your-own-radar/dist/vtr.csv
+    ports:
+      - "8080:8080"
